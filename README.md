@@ -16,15 +16,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Installation 🔧
  - Clone the Repository
-   ```
+   ```sh
    git clone https://github.com/Ahthe/Sudoku-Solver.git
    cd Sudoku-Solver
-   ```
 - Compile the Project (if applicable)
-  ```
+  ```sh
   javac SudokuSolver.java
-  ```
 - Run the Application
-  ```
+  ```sh
   java SudokuSolver
-  ```
+ 
